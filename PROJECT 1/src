@@ -1,0 +1,8 @@
+src/
+ ├── Main.java             # Entry point for the application
+ ├── Stock.java            # Stock class to represent individual stock details
+ ├── Market.java           # Market class to simulate stock price movements
+ ├── Portfolio.java        # Portfolio class to track user holdings
+ ├── Trade.java            # Class for handling buy/sell trades
+ └── User.java             # User class to manage balance and portfolio
+ 
